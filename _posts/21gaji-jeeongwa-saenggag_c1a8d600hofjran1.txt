@@ -1,3 +1,18 @@
+---
+title: 독후감 __21가지 제언과 생각__
+excerpt: 독후감 2024 2학기 생기부용
+
+categories:
+  - 독후감
+tags:
+  - [독후감, 생기부, 진로, 생각]
+
+toc: false
+toc_sticky: false
+ 
+date: 2024-12-01
+last_modified_at: 2024-12-01
+---
 __21가지 제언과 생각__
 [21세기를 위한 21가지 제언] - 유발 하라리
 

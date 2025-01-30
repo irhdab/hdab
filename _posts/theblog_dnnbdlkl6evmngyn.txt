@@ -1,0 +1,8 @@
+#theblog 
+__블로그 개발 일지__ - 시작하기
+
+
+github 링크: https://github.com/irhdab/blog
+블로그의 백엔드하고 프론트엔드를 직접 만들어 보기로 하였다. 현재 백엔드에서 POST를 하는 부분에서 계속 에러가 나지만 점차 해결해 나가는 방안을 생각해보기로 한다.
+
+#comproject #theblog #comput

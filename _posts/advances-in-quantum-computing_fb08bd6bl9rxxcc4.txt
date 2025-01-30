@@ -1,0 +1,29 @@
+Advances in quantum computing
+
+
+Quantum computing is an ongoing and progressive field of innovation in the 21st century that utilizes the principles of quantum mechanics to process information in ways that are not possible with classical computers.While classical computers operate with binary bits (0s and 1s), quantum computers use quantum bits, or qubits, which can exist in multiple states at the same time. Qubits allow quantum computers to perform complex computations at speeds faster than supercomputers.
+
+1. Early theoretical foundations
+The beginnings of quantum computing began in the 1980s when physicists and computer scientists such as Richard Feynman theorized that quantum systems could be simulated more efficiently than classical systems.
+2. Keys to the development of quantum algorithms
+Peter Shore developed the Shore algorithm, which showed that quantum computers can factorize large numbers exponentially faster than the best-known classical algorithms, bringing a new approach to modern cryptography. However, as I believe, an algorithm that can factorize at such a fast rate could pose a threat to security systems. Around the same time, Love Grover developed the Grover algorithm, which can search unsorted databases four times faster than classical methods.
+So far, not many quantum computer algorithms have been developed, but I think we can see the potential of quantum computers here.
+
+3. Advances in quantum computing 
+The development of practical hardware for quantum computers began in earnest in the early 21st century. The superconducting qubit, pioneered by researchers at IBM and Google, showed the potential development of quantum computers with its scalability and versatility. Currently, IBM and Google still dominate the market, but more companies are investing and researching to utilize the technology.
+
+4. Current status and future directions
+Today, quantum computing is still largely untapped, but its potential applications are vast, ranging from cryptography to complex optimization problems such as multiplying mathematical formulas. Major corporations, academic institutions, and governments are investing heavily in quantum research to overcome current limitations, including qubit stability, error correction, and quantum consistency.
+
+Conclusion
+I believe that the development of quantum computers represents a paradigm shift in the overall computer industry, and although we are still in the early stages, I believe that current research indicates the potential for quantum computing to transform the industry.
+The path to practical quantum computing must overcome significant technical challenges, but the potential benefits make it one of the most promising fields in modern science and technology.
+
+
+Agora report 아고라 리포트
+
+
+
+
+
+#class #report #club

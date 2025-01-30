@@ -1,0 +1,72 @@
+### Types of request letters.
+     
+1. **Request for Recommendation Letter**
+   - **Purpose**: To ask a teacher, counselor, or mentor to write a recommendation letter for college or scholarships.
+   - **Contents**:
+     - Brief self-introduction and resume
+     - Specific details to include in the letter (strengths, skills, etc.)
+     - Submission deadline
+     
+2. **Request for Transcript**
+   - **Purpose**: To obtain an official high school transcript for college applications, summer programs, or other opportunities.
+   - **Contents**:
+     - Student’s name, date of birth, and graduation year
+     - Specific location to send the transcript (e.g., college address or academic office)
+     
+3. **Request for Attendance Certificate**
+   - **Purpose**: To request proof of attendance at a specific school for various purposes.
+   - **Contents**:
+     - Student’s name, enrollment date, and purpose of the certificate
+     - Expected timeline for receipt
+     
+4. **Request for Financial Aid or Scholarship Information**
+   - **Purpose**: To inquire about financial aid, grants, or scholarships offered by the school or related institution.
+   - **Contents**:
+     - Personal information
+     - Specific financial details
+     
+5. **Request for Course Change**
+   - **Purpose**: To request a class schedule change due to academic needs, conflicts, or other valid reasons.
+   - **Contents**:
+     - Current course schedule and details
+     - Explanation for the request
+     - Availability for a meeting with the advisor
+     
+6. **Request for Internship or Job Shadowing Opportunity**
+   - **Purpose**: To explore potential job experience opportunities.
+   - **Contents**:
+     - Introduction and related experience
+     - Reasons for interest and availability
+     - Contact information and additional information request
+     
+7. **Request for School Equipment or Resource**
+   - **Purpose**: To borrow or access school equipment (e.g., laptop, textbooks) or spaces (e.g., library, school study area).
+   - **Contents**:
+     - Item/resource needed
+     - Duration of use
+     - Assurance of responsible use
+     
+8. **Request for Absence Permission**
+   - **Purpose**: To request permission for school absence due to family events, health issues, or other important commitments.
+   - **Contents**:
+     - Reason for absence (including specific details)
+     - Dates of absence and makeup dates
+     
+9. **Request for Additional Academic Support or Tutoring**
+   - **Purpose**: To seek additional help in a specific subject or area of study.
+   - **Contents**:
+     - Subject or field of study in question
+     - Availability for support sessions
+     - Request for available information
+     
+10. **Request for Participation in Extracurricular Activities**
+   - **Purpose**: To join a club, sports team, or other school-related activities.
+   - **Contents**:
+     - Name of activity or club and role desired
+     - Availability and commitment
+
+
+
+
+
+#class #english

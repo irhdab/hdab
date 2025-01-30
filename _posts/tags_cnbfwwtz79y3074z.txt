@@ -1,0 +1,20 @@
+# tags
+
+__#class__
+—> #korean #english #science #math #history #koreanhistory #socialstudy #report
+__#social__
+--> #stock #bis #bisidea #poli
+__#hobby__
+—> #movie #book #comput #project #comproject #hac
+#report #club #quote #essay #poem #think
+#twozerotwofour #twozerotwofive
+
+Else
+#idea
+#study
+#me
+#tool
+_#writing — not for permanent use_
+#rule
+
+Go to [/project](/hdab/project) for #project tags.

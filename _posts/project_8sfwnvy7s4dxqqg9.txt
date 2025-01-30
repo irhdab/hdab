@@ -1,0 +1,31 @@
+# Project
+
+>프로젝트들의 카테고리를 분류합니다.
+
+
+>>글쓰기
+
+#think: #ulsty 궁극적 사회에 대한 고찰 #humthi 인간이성탐구
+
+
+
+>>컴퓨터
+
+#comproject: #theblog 블로그 개발 일지
+
+
+
+
+>>비즈니스
+
+#bis: #shoa 신발 리테일
+
+>>study
+
+#testweek 시험 기간 일지
+#math: #mathwa 수학 틀린거 다시 풀어보고 풀이 정리하기
+
+
+
+
+#project
